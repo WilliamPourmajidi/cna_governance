@@ -1,0 +1,24 @@
+{
+  "CSP": "AWS",
+  "data_type": "metrics",
+  "error": null,
+  "governance_data": {
+    "memory_usage": 37.6,
+    "cpu_usage": 1.5,
+    "disk_usage": 34.3,
+    "bytes_sent": 8375883,
+    "bytes_recv": 82911423,
+    "additional_metric_1": "value_1",
+    "additional_metric_2": "value_2"
+  },
+  "log_id": "a2bc98fb-d4f2-44b0-a093-3f766fd1016e",
+  "service_name": "cna-app",
+  "timestamps": {
+    "cna_timestamp": "2024-09-06T15:13:45.460268+00:00",
+    "RG_1_API_Gateway_timestamp": "2024-09-06T15:13:45.478742+00:00",
+    "RG_1_SQS_Forwarder_timestamp": "2024-09-06T15:13:45.524243+00:00",
+    "RG_GOV_IMS_API_Gateway_timestamp": "2024-09-06T15:13:46.232296+00:00",
+    "RG_GOV_IMS_Converter_timestamp": "2024-09-06T15:13:46.333993+00:00",
+    "RG_GOV_IMS_Archiver_timestamp": "2024-09-06T15:13:46.444789+00:00"
+  }
+}
