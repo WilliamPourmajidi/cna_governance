@@ -94,4 +94,22 @@ To deploy and use this platform, ensure the following are installed and configur
 - **Testing**: Use the API Gateway endpoints to send telemetry data and check processing stages in SQS, SNS, and S3 to confirm end-to-end functionality.
 - **Monitoring and Logging**: Logs are available in CloudWatch for Lambda functions, providing visibility into each stage of telemetry data processing.
 
- 
+ ## Citation
+
+If you use or study the code, please cite it as follows.
+
+```bibtex
+
+@ARTICLE{pourmajidi2025reference,
+  author={Pourmajidi, William and Zhang, Lei and Steinbacher, John and Erwin, Tony and Miranskyy, Andriy},
+  journal={IEEE Transactions on Cloud Computing}, 
+  title={A Reference Architecture for Governance of Cloud Native Applications}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TCC.2025.3578557},
+  note={Early Access}
+}
+
+```
